@@ -1,0 +1,3 @@
+created jobs to check ecl syntax and upload error encountered as comment on pull request of GitHub
+After syntax check, build_comment task use to build executable ECL files as mentioned in 'jenkins_build' file,
+upload comment file which display all errors encounted on build with build status 
